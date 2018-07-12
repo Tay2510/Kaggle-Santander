@@ -11,3 +11,4 @@ nohup.out
 *.pyc
 **/__pycache__/
 *.npz
+*.csv
