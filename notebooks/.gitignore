@@ -1,0 +1,13 @@
+/.idea
+/__pycache__
+.DS_store
+.cache/
+.pytest_cache/
+nohup.out
+
+# Python related
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.pyc
+**/__pycache__/
+*.npz
