@@ -4,6 +4,7 @@
 .cache/
 .pytest_cache/
 nohup.out
+*.h5
 
 # Python related
 .ipynb_checkpoints
